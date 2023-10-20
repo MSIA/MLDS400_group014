@@ -44,3 +44,15 @@ Goal for Next Week:
 * Come up with data cleaning strategies for each table 
 * Begin implementing data cleaning strategies 
 * Connect to NU Postgress
+
+
+
+## Week 2
+database upload:
+This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute.  
+
+
+Goals For next week:
+* Figure out the machine learning topic we are going to present in dashboard.
+* Do more EDA on every dataset and some data visualzation.
+* figure out what variables are important for us for our machine learning problem(If we have time)? 
