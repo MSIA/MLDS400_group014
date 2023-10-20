@@ -4,6 +4,8 @@
 database upload:
 This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute. We have also made the connection between python and Postgress to allow data to be read into a jupyter notebook. In addition, we have imported the database into Python and performed further exploratory data analysis and data cleaning.
 
+The trnsact table comprises 120916896 observations. For our exploratory data analysis, we've randomly selected 5000 observations. Through observation, variables like REGISTER, TRANNUM, SEQ, INTERID, and MIC are internal codes used by Dillard's and may not have meaningful external use. Additionally, the extra column contains only zeros and ones, which we consider irrelevant and do not consider individually for analysis
+
 
 Goals For next week:
 * Figure out the machine learning topic we are going to present in dashboard.
