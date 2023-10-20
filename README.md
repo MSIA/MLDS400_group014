@@ -2,7 +2,7 @@
 
 ## Week 2
 database upload:
-This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute. We have also made the connection between python and Postgress to allow data to be read into a jupyter notebook. 
+This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute. We have also made the connection between python and Postgress to allow data to be read into a jupyter notebook. In addition, we have imported the database into Python and performed further exploratory data analysis and data cleaning.
 
 
 Goals For next week:
