@@ -1,5 +1,17 @@
 # MLDS400_group014
 
+## Week 2
+database upload:
+This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute. We have also made the connection between python and Postgress to allow data to be read into a jupyter notebook. 
+
+
+Goals For next week:
+* Figure out the machine learning topic we are going to present in dashboard.
+* Data cleaning
+* Do more EDA on every dataset and some data visualzation.
+* figure out what variables are important for us for our machine learning problem(If we have time)? 
+
+
 ## Week 1
 * This week our goal was to download all the files, load them into Python and begin exploring the data
 * Our team also downloaded Postgres 
@@ -45,14 +57,3 @@ Goal for Next Week:
 * Begin implementing data cleaning strategies 
 * Connect to NU Postgress
 
-
-
-## Week 2
-database upload:
-This week we have uploaded all the datasets to the postgreSQL and tries to do load the data from the cloud to do analysis. It takes a long time to upload trnsact data (11 GB). Others takes less than 1 minute.  
-
-
-Goals For next week:
-* Figure out the machine learning topic we are going to present in dashboard.
-* Do more EDA on every dataset and some data visualzation.
-* figure out what variables are important for us for our machine learning problem(If we have time)? 
