@@ -3,12 +3,12 @@
 After some basic data cleaning and we decided to do a brainstorming and research on machine learning questions we are going to work on. 
 
 Possible Question1:
-GOAL: To predict the daily return rate of a given store. 
-Metric: P/P+R P is number of SKU purchased per store per day, and R is the number of SKU returned per store per day. 
-Methodologies:
-1.SARIMA: this is a preliminary model that we could first try on to get a sense of how difficult this problem will be. 
-2.LSTM: this model is excellent in predicting based on both long and short memories. https://colah.github.io/posts/2015-08-Understanding-LSTMs/ 
-3.DeepAR: this model is good at learning seasonal behaviors and dependencies on given covariates across time series. Woth to try it out. https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html
+GOAL: To predict the daily return rate of a given store. \n 
+Metric: P/P+R P is number of SKU purchased per store per day, and R is the number of SKU returned per store per day. \n
+Methodologies: \n
+1.SARIMA: this is a preliminary model that we could first try on to get a sense of how difficult this problem will be.\n 
+2.LSTM: this model is excellent in predicting based on both long and short memories. https://colah.github.io/posts/2015-08-Understanding-LSTMs/ \n
+3.DeepAR: this model is good at learning seasonal behaviors and dependencies on given covariates across time series. Woth to try it out. https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html \n
 
 
 
