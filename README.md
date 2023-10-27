@@ -3,7 +3,7 @@
 After some basic data cleaning and we decided to do a brainstorming and research on machine learning questions we are going to work on.  
 
 Possible Question1:    
-GOAL: To predict the daily return rate of a given store. 
+GOAL: To predict the daily return rate of a given store.    
 Metric: P/P+R P is number of SKU purchased per store per day, and R is the number of SKU returned per store per day.   
 Methodologies:   
 1.SARIMA: this is a preliminary model that we could first try on to get a sense of how difficult this problem will be.   
