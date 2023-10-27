@@ -10,8 +10,16 @@ Methodologies:
 2.LSTM: this model is excellent in predicting based on both long and short memories. https://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 3.DeepAR: this model is good at learning seasonal behaviors and dependencies on given covariates across time series. Woth to try it out. https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html   
 
-
-
+Possible Question2:
+Can we predict customer churn for Dillard's retail chain based on their purchasing behaviors, frequency of transactions, and response to promotions, allowing the business to identify at-risk customers and implement retention strategies?
+Relevant Attributes: STORE, SALEDATE, AMT
+Specific Machine Learning Method: Classification Models (e.g., Logistic Regression, Decision Trees, Random Forest, Gradient Boosted Trees, Neural Networks)
+Predictive:
+Can we forecast the transaction frequency and amounts for the next quarter based on historical data?
+Which stores are at the highest risk of seeing a drop in customer transactions in the upcoming months?
+Expected Outcomes:
+Time series analysis results showcasing transaction trends over time for different store locations.
+Identification of specific store locations with declining transaction trends.
 
 
 ## Week 2
