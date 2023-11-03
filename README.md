@@ -1,4 +1,14 @@
 # MLDS400_group014
+
+## Week 4
+
+Possible Question3: 
+
+GOAL: Predict the sale price of items in stock (SPRICE)
+Relevant Attributes: Sale price, other attributes highly related to sale price(Determined through EDA and data cleaning)
+  - possible other attributesL: brand, style, department etc. 
+Methodologies: Linear Regression,Ridge and Lasso Regressionm,  SVM, KNN, Gradient Boosting Machines (GBM) 
+
 ## Week 3
 After some basic data cleaning and we decided to do a brainstorming and research on machine learning questions we are going to work on.  
 
