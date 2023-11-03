@@ -1,7 +1,11 @@
 # MLDS400_group014
 
 ## Week 4
+This week, after some discussions and exploration of datasets, we found that the previous business questions are not that feasible, so we meet together and decided to come up with more research questions. 
+Possible Question 5:
 
+Goal: Cross-Selling predictions? By implementing machine learning models, we can know what are some commodities that being sold together. This way, we can maximize our selling profits by providing bundle service or cross-selling services, and provide discount accordingly. 
+ 
 Possible Question 4:
 
 Goal: Identify key characteristics of customers. This can be done with clustering techniques to group customer by behaviors/transactions based on transaction history, purchase behavior and brand, departments. Can identify transaction amounts, preferred brands, and geographical distriubtion. This information can be used to target marketing strategies. 
