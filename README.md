@@ -2,7 +2,12 @@
 
 ## Week 4
 
-Possible Question3: 
+Possible Question 4:
+
+Goal: Identify key characteristics of customers. This can be done with clustering techniques to group customer by behaviors/transactions based on transaction history, purchase behavior and brand, departments. Can identify transaction amounts, preferred brands, and geographical distriubtion. This information can be used to target marketing strategies. 
+
+
+Possible Question 3: 
 
 GOAL: Predict the sale price of items in stock (SPRICE)
 Relevant Attributes: Sale price, other attributes highly related to sale price(Determined through EDA and data cleaning)
