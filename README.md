@@ -1,4 +1,9 @@
 # MLDS400_group014
+## Week 5  
+This week, we have chose research question 5, and we start to do some SQL query to select our features, after feature engineerings, we will start data cleaning and EDA on those features to see how they correlated with our response variables. So far, the following is the features we pick:  
+* number of transactions    
+* number of discount sale     
+* amount of money sale  
 
 ## Week 4
 This week, after some discussions and exploration of datasets, we found that the previous business questions are not that feasible, so we meet together and decided to come up with more research questions. 
