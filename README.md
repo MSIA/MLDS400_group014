@@ -5,6 +5,8 @@ This week we have continued to create more features relating to the price, locat
 
 In addition, we also added data visualization used tableau which we used to learn in class. Check out the png file in the data_viz folder. The dashboard is super fun to explore, but we need more features to keep playing around with the data.
 
+In the end, we fit a linear regression model based on selected features, the result shows multicollinearity. we may address it using Variance Inflation Factor, revise our features, scale data, explore other models, apply cross-validation, check statistical assumptions, and continuously refine the model with stakeholder feedback and iterative testing.
+
 next week goal: 
 * more data visualization 
 * detect more features
