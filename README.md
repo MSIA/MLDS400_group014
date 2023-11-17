@@ -3,6 +3,14 @@
 
 This week we have continued to create more features relating to the price, location and time of year and how they relate to return rate. We also have implemented logic to load in sensitive information (username, password) from a .env file so that we do not need to worry about commiting sensitive information. 
 
+In addition, we also added data visualization used tableau which we used to learn in class. Check out the png file in the data_viz folder. The dashboard is super fun to explore, but we need more features to keep playing around with the data.
+
+next week goal: 
+* more data visualization 
+* detect more features
+* try more models other than linear regression.
+* start to look at ROI
+
 ## Week 5  
 This week, we have chose research question 5, and we start to do some SQL query to select our features, after feature engineerings, we will start data cleaning and EDA on those features to see how they correlated with our response variables. So far, the following is the features we pick:  
 * number of transactions    
