@@ -1,4 +1,20 @@
 # MLDS400_group014
+
+## Week 7 (ThanksGiving)       
+
+This week is a ThanksGiving Week, everyone in our group is traveling, but we still had a meeting before ThanksGiving break to sit down and talk about what we had so far.
+
+Summary of the meeting:               
+Summarizing all the works we have, we think what we have now are linear models to predict the store return rate for one year data (with 22% R^2). We have talked about why we only have 22%. 
+- Feature issue: we do not have a feature that has a strong prediction power, so this indicates we need to do more feature engineering.
+- Model issue: linear model may not be too good for this much of data, we may need to consider other models that are more powerful in prediction, and tries a different model.
+
+ROI possible direction:    
+I think we have a good machine learning topic on predicting store return rate, we can analyze the result by the following 2 aspects.    
+- Customer Satisfaction: Knowing which stores have a higher return rate and why can inform improvements in the saling of that particular store. This can lead to higher customer satisfaction and loyalty, as customers are more likely to be satisfied with their purchases.
+- Regional Trends and Strategies: Analyzing return rates by store can reveal regional trends and preferences. This information can guide regional marketing strategies, inventory selection, and promotions to better align with customer preferences in different areas.
+
+
 ## Week 6
 
 This week we have continued to create more features relating to the price, location and time of year and how they relate to return rate. We also have implemented logic to load in sensitive information (username, password) from a .env file so that we do not need to worry about commiting sensitive information. 
