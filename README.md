@@ -1,4 +1,20 @@
 # MLDS400_group014
+## Week 8
+This week we have been working in modeling and build up powerpoint for our presentation slides.     
+
+Models that we tried:
+* Random Forest
+* Neural Network
+* Linear Regression
+
+The best performance model so far is Random Forest, which goes up to 52% of R^2. To improve this performance, we need to do more feature engineerings to improve our model performance.
+
+Next week Goals: 
+As we need to wrap up everything next week:
+* we need to have our modelling done
+* we need to have our 5-page report done.
+* presentation done.
+
 
 ## Week 7 (ThanksGiving)       
 
