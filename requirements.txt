@@ -1,0 +1,13 @@
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Psycopg2	
+Os
+Dotenv	
+Datetime	
+statsmodels
+Torch	
+torch.nn
+torch.optim
+torch.utils.data
