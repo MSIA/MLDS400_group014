@@ -1,4 +1,8 @@
 # MLDS400_group014
+## Week 9 
+
+This week we finalized our modeling and  ROI, created our report and presentaiton. We have created a requirements.txt file and reorganized our repo as per the requiremtns on Canvas. 
+
 ## Week 8
 This week we have been working in modeling and build up powerpoint for our presentation slides.     
 
